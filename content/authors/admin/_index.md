@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Dan Li is a data scientist in the Data Science group of Elsevier. She is responsible for conducting research regarding Information Retrieval and Natural Language Processing, and developing and applying models for information services (Science Direct) in Elsevier. Before that, she was doing her PhD and postdoc and the University of Amsterdam, and her research topics was "Evaluation and Optimization of Information Retrieval".
+Dan Li is a data scientist in the Data Science group in Elsevier. She is responsible for conducting research regarding Information Retrieval and Natural Language Processing, and developing and applying models for the information services of Elsevier. Before that, she was doing her PhD and postdoc and the University of Amsterdam, and her research topics was "Evaluation and Optimization of Information Retrieval".
 {style="text-align: justify;"}
