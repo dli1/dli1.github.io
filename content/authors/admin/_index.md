@@ -89,4 +89,4 @@ I received my M.A. degree in Computational Linguistics and B.Sc degree in Mathem
 
 My hometown is in Inner Mongolia (China). I love dancing (zumba). I'm a big language fan. I speak Chinese and English as daily and working language. I also speak Japanese and Thai for fun.
 
-{style="text-align: left;"}
+{style="text-align:left;"}
