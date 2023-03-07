@@ -80,5 +80,13 @@ email: ''
 highlight_name: true
 ---
 
-Dan Li is a data scientist in the Data Science group in Elsevier. She is responsible for conducting research regarding Information Retrieval and Natural Language Processing, and developing and applying models for the information services of Elsevier. Before that, she was doing her PhD and postdoc and the University of Amsterdam, and her research topics was "Evaluation and Optimization of Information Retrieval".
+Hi, my name is Dan Li.
+Currently I'm a data scientist in the Data Science group in Elsevier. I'm responsible for doing research in IR and NLP and applying those models in Elsevier's information services. 
+
+I did my PhD in IRLAB with Prof. Evangelos Kanoulas and Prof. Maarten de Rijke at the University of Amsterdam from 2016 to 2020. My research topics was Evaluation and Optimization of Information Retrieval. I studied a fundamental way of constructing and utilizing test collections in information retrieval in an effective, efficient and reliable manner.
+
+I received my M.A. degree in Computational Linguistics and B.Sc degree in Mathematics at Dalian University of Technology in 2016 and 2011.
+
+My hometown is in Inner Mongolia (China). I love dancing (zumba). I'm a big language fan. I speak Chinese and English as daily and working language. I also speak Japanese and Thai for fun.
+
 {style="text-align: justify;"}
