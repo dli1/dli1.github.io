@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1U_gs5lJg9SMPNeN3Dy-4yJh-1G6U_M6E/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,10 +57,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -76,6 +76,46 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: content/slides/example/index.md
+---
+title: 'CrowdGP: a Gaussian Process Model for Inferring Relevance from Crowd Annotations'
+
+authors:
+  - Li D.
+  - Ren R.
+  - Kanoulas K.
+
+date: '2021'
+doi: ''
+publishDate: '2021'
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['1']
+
+# Publication name and optional abbreviated publication name.
+publication: In *WWW 2021*
+publication_short: In *WWW 2021*
+abstract: 
+
+
+# Summary. An optional shortened abstract.
+summary: We propose a new crowd annotation generation model named CrowdGP, where true relevance labels, annotator competence, annotator’s bias towards relevancy, task difficulty, and task’s bias towards relevancy are modelled through a Gaussian process and multiple Gaussian variables respectively. 
+
+tags: []
+
+featured: true
+
+url_pdf: 'https://drive.google.com/file/d/1U_gs5lJg9SMPNeN3Dy-4yJh-1G6U_M6E/view?usp=sharing'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
 ---
 
 {{% callout note %}}
