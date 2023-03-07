@@ -79,6 +79,9 @@ slides: content/slides/example/index.md
 
 ---
 
+
+---
+
 title: 'CrowdGP: a Gaussian Process Model for Inferring Relevance from Crowd Annotations'
 
 authors:
