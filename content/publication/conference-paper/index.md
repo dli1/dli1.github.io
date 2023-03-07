@@ -76,7 +76,9 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: content/slides/example/index.md
+
 ---
+
 title: 'CrowdGP: a Gaussian Process Model for Inferring Relevance from Crowd Annotations'
 
 authors:
