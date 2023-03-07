@@ -1,5 +1,5 @@
 ---
-title: 'Unsupervised Dense Retrieval for Scientific Articles'
+title: 'aaaaa Dense Retrieval for Scientific Articles'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -39,7 +39,7 @@ summary: We build a semantic search engine on scientific articles. The major cha
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
