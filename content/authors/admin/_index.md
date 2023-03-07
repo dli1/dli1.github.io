@@ -22,7 +22,7 @@ organizations:
     url: https://www.elsevier.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My major research field is Information Retrieval (IR) and Text Mining (TM). I am also interested in Natural Language Processing (NLP) and general Artificial Intelligence (AI). 
+bio: I am interested in Information Retrieval (IR), Text Mining (TM), Natural Language Processing (NLP) and general Artificial Intelligence (AI). 
 
 # Interests to show in About widget
 interests:
@@ -53,7 +53,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/dli520
     label: Follow me on Twitter
     display:
       header: true
