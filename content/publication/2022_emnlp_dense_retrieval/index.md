@@ -5,10 +5,10 @@ title: 'Unsupervised Dense Retrieval for Scientific Articles'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Li D.
-  - Yadav V.
-  - Afzal Z.
-  - Tsatsaronis G.
+  - admin
+  - Vikrant Yadav
+  - Zubair Afzal
+  - Georgios Tsatsaronis 
 
 # Author notes (optional)
 # author_notes:
@@ -28,9 +28,9 @@ publishDate: '2022'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *EMNLP Industry track*
-publication_short: In *EMNLP Industry track*
-abstract: 
+publication: In *EMNLP '22 *
+publication_short: In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing: Industry Track*
+abstract: In this work, we build a dense retrieval based semantic search engine on scientific articles from Elsevier. The major challenge is that there is no labeled data for training and testing. We apply a state-of-the-art unsupervised dense retrieval model called Generative Pseudo Labeling that generates high-quality pseudo training labels. Furthermore, since the articles are unbalanced across different domains, we select passages from multiple domains to form balanced training data. For the evaluation, we create two test sets: one manually annotated and one automatically created from the meta-information of our data. We compare the semantic search engine with the currently deployed lexical search engine on the two test sets. The results of the experiment show that the semantic search engine trained with pseudo training labels can significantly improve search performance.
 
 
 # Summary. An optional shortened abstract.

@@ -5,7 +5,7 @@ title: 'Extending Label Aggregation Models with a Gaussian Process to Denoise Cr
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Dan Li
+  - admin
   - Maarten de Rijke
 
 # Author notes (optional)
@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023'
-doi: '10.1145/3539618.3591685'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023'
