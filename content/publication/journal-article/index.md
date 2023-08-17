@@ -1,6 +1,6 @@
 ---
-title: ""
-authors:
+# title: ""
+# authors:
 # - admin
 # - Robert Ford
 # author_notes:
