@@ -13,9 +13,9 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
-  # - name: Mentoring & Academic Service
-  #   url: '#mentoring'
-  #   weight: 30
+  - name: Mentoring & Academic Service
+    url: '#mentoring'
+    weight: 30
   - name: Posts
     url: '#posts'
     weight: 20

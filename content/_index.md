@@ -40,6 +40,14 @@ sections:
       columns: '2'
       view: compact
 
+  - block: markdown
+    id: mentoring
+    content:
+      title: Mentoring
+      text: I'm open to supervise master thesis in IR and NLP. If you are a master AI student looking for internship, feel free to email me. At Elsevier, we have rich textual data and we do fantastic IR/NLP tasks.
+    design:
+      columns: '2'
+
   # - block: experience
   #   id: mentoring
   #     content:
