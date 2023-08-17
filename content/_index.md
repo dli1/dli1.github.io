@@ -29,7 +29,7 @@ sections:
       columns: '2'
       view: citation
 
-  - block: talks
+  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
