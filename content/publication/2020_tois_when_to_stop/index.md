@@ -46,13 +46,13 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3411755?casa_token=85F-Yun1y88AAAAA:IP7rTVhLRQke1JdO6_EGu3_S16pW5DRd-dVK0CgoDOUQXzaM0D7xEulRjx9LJx_RaYccFC-wmvhXLFY'
-url_code: ''
+url_code: 'https://github.com/dli1/auto-stop-tar'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1gRq0z2CK15gqqnE-k_zzKGY7JYf_GanC/view?usp=drive_link'
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1SrxMjWlycu_xTNPpT_2NlYmXvkPjkZbR/view?usp=drive_link'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
