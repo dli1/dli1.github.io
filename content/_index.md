@@ -306,15 +306,15 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
       # subtitle:
       # text: |-
       #   If you are interested in my work or have any questions, free free to send me emails.
       # Contact (add or remove contact options as necessary)
-      email: "mailto:teelada520@gmail.com"
+      # email: "mailto:teelada520@gmail.com"
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
@@ -328,17 +328,16 @@ sections:
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: google-scholar
-          icon_pack: ai
-          link: 'https://scholar.google.com/citations?user=rvfla40AAAAJ&hl=en&authuser=1'
-        - icon: dblp
-          icon_pack: fab
-          link: 'https://dblp.org/pid/48/4185-15.html'
-
-        - icon: twitter
-          icon_pack: fab
-          link: 'https://twitter.com/dli520'
+      # contact_links:
+      #   - icon: google-scholar
+      #     icon_pack: ai
+      #     link: 'https://scholar.google.com/citations?user=rvfla40AAAAJ&hl=en&authuser=1'
+      #   - icon: dblp
+      #     icon_pack: fab
+      #     link: 'https://dblp.org/pid/48/4185-15.html'
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     link: 'https://twitter.com/dli520'
 
         # - icon: skype
         #   icon_pack: fab
@@ -349,7 +348,7 @@ sections:
         #   name: Zoom Me
         #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      # autolink: true
       # # Email form provider
       # form:
       #   provider: netlify
@@ -358,6 +357,6 @@ sections:
       #   netlify:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
-    design:
-      columns: '2'
----
+#     design:
+#       columns: '2'
+# ---
