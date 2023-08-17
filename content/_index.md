@@ -31,7 +31,7 @@ sections:
       #   enable: false
 
     design:
-      columns: '2'
+      columns: '1'
       view: citation
 
   - block: collection
