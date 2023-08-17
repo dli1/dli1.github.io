@@ -50,7 +50,7 @@ sections:
         * **Mentoring**
             * I'm open to supervise master thesis in IR and NLP. If you are a master AI student looking for internship, feel free to email me. At Elsevier, we have rich textual data and we do fantastic IR/NLP tasks.
         * **Past master thesis supervision**
-            * <span style="color:blue">A comparative study of text to image generation methods for visualizing classical Chinese poems</span>. 2022. Zeyou Niu. Msc Artificial Intelligence.
+            * <span style="color: #0096FF">A comparative study of text to image generation methods for visualizing classical Chinese poems</span>. 2022. Zeyou Niu. Msc Artificial Intelligence.
             * Automatic optimization techniques in machine learning pipelines. 2021. Simon Appelt. Msc Artificial Intelligence.
             * Modelling task and worker correlation for crowdsourcing label aggregation. 2020. Ioanna Sanida. Msc Artificial Intelligence.
             * Statistical question classification. 2019. Ruben Halfhide. Msc Data Science.
