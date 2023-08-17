@@ -52,7 +52,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3269206.3271779?casa_token=sMTSsmZ9r30AAAAA:F0SNKjKgs4jjQ3wcjB9nKbhB0DmmDOZpV-cQeoSCkgWl8xZ1KhVVUSTOGYGAA-fDKAtPXXBrVD1mR44'
-url_code: ''
+url_code: 'https://github.com/CrowdTruth/NYT-Crowdsourcing-Topical-Relevance'
 url_dataset: ''
 url_poster: ''
 url_project: ''
