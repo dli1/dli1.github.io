@@ -44,13 +44,14 @@ sections:
   - block: markdown
     id: mentoring
     content:
-      title: Mentoring & Academic Service
+      title: Mentoring 
 
       text: |2-
-        * **Mentoring**
+        * **Thesis supervision **
 
-            * I'm open to supervise master thesis in IR and NLP. If you are a master AI student looking for internship, feel free to email me. At Elsevier, we have rich textual data and we do fantastic IR/NLP tasks.
-            \
+            * I'm open to supervise master thesis in general IR and NLP. If you are a master student looking for internship, feel free to email me. 
+            * At Elsevier, we have rich textual data and we do fantastic IR/NLP tasks, such as dense retrieval, extreme multi-label text classification, question answer and generative AI.
+            
 
         * **Past master thesis supervision**
 
@@ -59,7 +60,7 @@ sections:
             * <span style="color: #0096FF">Modelling task and worker correlation for crowdsourcing label aggregation</span>. 2020. Ioanna Sanida. Msc Artificial Intelligence.
             * <span style="color: #0096FF">Statistical question classification</span>. 2019. Ruben Halfhide. Msc Data Science.
    
-            \
+            
         * **Past bachelor thesis supervision**
 
             * <span style="color: #0096FF">Building a dataset for the visualization of classical Chinese poems</span>. 2020. Elisha A. Nieuwburg, Bsc Artificial Intelligence.
