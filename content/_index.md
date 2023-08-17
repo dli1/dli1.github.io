@@ -47,10 +47,10 @@ sections:
       title: Mentoring 
 
       text: |2-
-        * **Thesis supervision **
+        * **Thesis supervision**
 
             * I'm open to supervise master thesis in general IR and NLP. If you are a master student looking for internship, feel free to email me. 
-            * At Elsevier, we have rich textual data and we do fantastic IR/NLP tasks, such as dense retrieval, extreme multi-label text classification, question answer and generative AI.
+            * At Elsevier, we have rich textual data and we do fantastic IR/NLP tasks, such as dense retrieval, extreme multi-label text classification, question answer, generative AI, etc.
             
 
         * **Past master thesis supervision**

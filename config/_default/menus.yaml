@@ -13,7 +13,7 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Mentoring & Academic Service
+  - name: Mentoring 
     url: '#mentoring'
     weight: 30
   - name: Posts
