@@ -1,5 +1,5 @@
 ---
-title: 'aaaaa Dense Retrieval for Scientific Articles'
+title: 'Unsupervised Dense Retrieval for Scientific Articles'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -46,14 +46,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1U_gs5lJg9SMPNeN3Dy-4yJh-1G6U_M6E/view?usp=sharing'
+url_pdf: 'https://aclanthology.org/2022.emnlp-industry.32/'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/145Syxsuhbo8wFYY0wZmMNEhGf8F9Ryvo/view?usp=drive_link'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1PIqzm70mzCuJuGceobEdLI9F7FF4Gn2b/view?usp=drive_link'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -67,15 +67,15 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: content/slides/example/index.md
+# slides: content/slides/example/index.md
 
 ---
 
