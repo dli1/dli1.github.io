@@ -79,7 +79,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<font size="2">
+<font size="3">
 Hi, my name is Dan Li (李丹). Currently I'm a data scientist at Elsevier, working on dense retrieval, extreme multi-label classification, and document-based question answer generation using generative AI. 
 
 Before that, I did my PhD with Prof. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and Prof. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) at the University of Amsterdam. My PhD research topics was Evaluation and Optimization of Information Retrieval. I'm also intersted in conversational search, crowdsourcing label denoising, evalaution of information retrieval, text-to-image generation, robabilistic graphical models, Gaussian Process.
