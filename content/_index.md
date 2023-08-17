@@ -25,6 +25,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
+
     design:
       columns: '2'
       view: citation
@@ -45,13 +46,15 @@ sections:
     content:
       title: Mentoring & Academic Service
 
-      text: I'm open to supervise master thesis in IR and NLP. If you are a master AI student looking for internship, feel free to email me. At Elsevier, we have rich textual data and we do fantastic IR/NLP tasks.
+      text: 
+        - Mentoring
+            - I'm open to supervise master thesis in IR and NLP. If you are a master AI student looking for internship, feel free to email me. At Elsevier, we have rich textual data and we do fantastic IR/NLP tasks.
+        - Past students
+            - Past
+            - publication
 
-      content:
-      title: Mentoring & Academic Service
+   
 
-      text: I'm open to supervise master thesis in IR and NLP. If you are a master AI student looking for internship, feel free to email me. At Elsevier, we have rich textual data and we do fantastic IR/NLP tasks.
-      
     design:
       columns: '1'
 
