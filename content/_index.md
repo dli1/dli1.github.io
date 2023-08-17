@@ -40,21 +40,21 @@ sections:
       columns: '2'
       view: compact
 
-  - block: portfolio
+  - block: experience
     id: mentoring
     content:
       title: Mentoring & Academic Service
     
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+      items:
+        - title: Mentoring
+          description: I'm open to supervise master thesis in IR/NLP/ML/DL. At Elsevier, we have rich textual data and we did lots of IR/NLP tasks.  
+         
+        # - title: Past students
+        #     * 
+        
       design:
         # Choose how many columns the section has. Valid values: '1' or '2'.
-        columns: '1'
+        columns: '2'
         view: showcase
         # For Showcase view, flip alternate rows?
         flip_alt_rows: false
