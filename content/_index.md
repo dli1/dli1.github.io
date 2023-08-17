@@ -49,14 +49,21 @@ sections:
       text: |2-
         * *Mentoring*
             * I'm open to supervise master thesis in IR and NLP. If you are a master AI student looking for internship, feel free to email me. At Elsevier, we have rich textual data and we do fantastic IR/NLP tasks.
-        * *Past students*
-            * Past
-            * publication
-
+        * *Past master thesis supervision*
+            * A comparative study of text to image generation methods for visualizing classical Chinese poems. 2022. Zeyou Niu. Msc Artificial Intelligence.
+            * Automatic optimization techniques in machine learning pipelines. 2021. Simon Appelt. Msc Artificial Intelligence.
+            * Modelling task and worker correlation for crowdsourcing label aggregation. 2020. Ioanna Sanida. Msc Artificial Intelligence.
+            * Statistical question classification. 2019. Ruben Halfhide. Msc Data Science.
    
+        * *Past bachelor thesis supervision*
+            * Building a dataset for the visualization of classical Chinese poems. 2020. Elisha A. Nieuwburg, Bsc Artificial Intelligence.
+            * De-noise large-scale poem-image pairs for poem-to-image generation. 2020. Fengyuan Sun. Bsc Artificial Intelligence. (*Cum laude (outstanding) bachelor thesis*)
+            * A representation of classical Chinese poetry for poem based image generation. 2020. River Vaudrin. Bsc Artificial Intelligence.
+            * Image generation for classical Chinese poems. 2020. Nina M. van Liebergen. Bsc Artificial Intelligence.
+            * Semantic visualization of classical Chinese poetry. 2020. Silvan Murre. Bsc Artificial Intelligence.
 
     design:
-      columns: '1'
+      columns: '2'
 
   # - block: experience
   #   id: mentoring
