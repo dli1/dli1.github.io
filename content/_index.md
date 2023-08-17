@@ -43,8 +43,13 @@ sections:
   - block: markdown
     id: mentoring
     content:
-      title: Mentoring
-      text: I'm open to supervise master thesis in IR and NLP. If you are a master AI student looking for internship, feel free to email me. At Elsevier, we have rich textual data and we do fantastic IR/NLP tasks.
+      title: Mentoring & Academic Service
+
+      items:
+        - title: Mentoring
+          description: I'm open to supervise master thesis in IR and NLP. If you are a master AI student looking for internship, feel free to email me. At Elsevier, we have rich textual data and we do fantastic IR/NLP tasks.
+        - title: Academic Service
+          description: acl
     design:
       columns: '2'
 
