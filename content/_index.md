@@ -25,8 +25,9 @@ sections:
         folders:
           - publication
         # exclude_featured: true
+     
       archive:
-        enable = false
+        enable: false
 
     design:
       columns: '2'
