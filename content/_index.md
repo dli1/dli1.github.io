@@ -328,11 +328,18 @@ sections:
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
-      # contact_links:
-      #   - icon: twitter
-      #     icon_pack: fab
-      #     name: DM Me
-      #     link: 'https://twitter.com/dli520'
+      contact_links:
+        - icon: google-scholar
+          icon_pack: ai
+          link: 'https://scholar.google.com/citations?user=rvfla40AAAAJ&hl=en&authuser=1'
+        - icon: dblp
+          icon_pack: fab
+          link: 'https://dblp.org/pid/48/4185-15.html'
+
+        - icon: twitter
+          icon_pack: fab
+          link: 'https://twitter.com/dli520'
+
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me
