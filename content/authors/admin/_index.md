@@ -57,8 +57,8 @@ social:
 
     # display:
     #   header: true
-  - icon: google # Alternatively, use `google-scholar` icon from `ai` icon pack
-     icon_pack: ai
+  - icon: assets/media/icons/icons8-google-scholar.svg # Alternatively, use `google-scholar` icon from `ai` icon pack
+     # icon_pack: fas
      link: https://scholar.google.com/citations?user=rvfla40AAAAJ&hl=en&authuser=1
   - icon: github
     icon_pack: fab
