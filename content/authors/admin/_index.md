@@ -42,7 +42,7 @@ education:
     - course: Master in Computational Linguistics
       institution: Dalian University of Techonology, China
       year: 2013-2016
-    - course: BSc in Mathematics 
+    - course: Bachelor in Mathematics 
       institution: Dalian University of Techonology, China
       year: 2007-2011
 
