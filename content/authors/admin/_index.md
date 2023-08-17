@@ -79,14 +79,16 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<font size="-1">
+Hi, my name is Dan Li (李丹). Currently I'm a data scientist at Elsevier, working on dense retrieval, extreme multi-label classification, and document-based question answer generation using generative AI. 
 
-Hi, my name is Dan Li (李丹).
-Currently I'm a data scientist in the Data Science group in Elsevier. I'm responsible for doing research in IR and NLP and applying those models in Elsevier's information services. 
+Before that, I did my PhD with Prof. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and Prof. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) at the University of Amsterdam. My PhD research topics was Evaluation and Optimization of Information Retrieval. I'm also intersted in conversational search, crowdsourcing label denoising, evalaution of information retrieval, text-to-image generation, robabilistic graphical models, Gaussian Process.
 
-I did my PhD in IRLAB with Prof. Evangelos Kanoulas and Prof. Maarten de Rijke at the University of Amsterdam from 2016 to 2020. My research topics was Evaluation and Optimization of Information Retrieval. I studied a fundamental way of constructing and utilizing test collections in information retrieval in an effective, efficient and reliable manner.
+<!-- I did my PhD in IRLAB with Prof. Evangelos Kanoulas and Prof. Maarten de Rijke at the University of Amsterdam from 2016 to 2020. My research topics was Evaluation and Optimization of Information Retrieval. I studied a fundamental way of constructing and utilizing test collections in information retrieval in an effective, efficient and reliable manner.
 
-I received my M.A. degree in Computational Linguistics and B.Sc degree in Mathematics at Dalian University of Technology in 2016 and 2011.
+I received my M.A. degree in Computational Linguistics and B.Sc degree in Mathematics at Dalian University of Technology in 2016 and 2011. -->
 
-My hometown is in Inner Mongolia (China). I love dancing (zumba). I'm a big language fan. I speak Chinese and English as daily and working language. I also speak Japanese and Thai for fun.
+My hometown is in Inner Mongolia (China). I love dancing. I'm a big language fan. I speak Chinese and English as daily and working language. I also speak Japanese, Thai and Dutch.
+</font>
 
 {style="text-align:left;"}
