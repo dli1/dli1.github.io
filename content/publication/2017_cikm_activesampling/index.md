@@ -6,7 +6,7 @@ title: 'Active sampling for large-scale information retrieval evaluation'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
- - Evangelos Kanoulas
+  - Evangelos Kanoulas
 
 
 # Author notes (optional)
