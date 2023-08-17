@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dan Li 李丹
+title: Dan Li
 
 # Full name (for SEO)
 first_name: Dan
@@ -8,7 +8,7 @@ last_name: Li
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -80,7 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi, my name is Dan Li.
+Hi, my name is Dan Li (李丹).
 Currently I'm a data scientist in the Data Science group in Elsevier. I'm responsible for doing research in IR and NLP and applying those models in Elsevier's information services. 
 
 I did my PhD in IRLAB with Prof. Evangelos Kanoulas and Prof. Maarten de Rijke at the University of Amsterdam from 2016 to 2020. My research topics was Evaluation and Optimization of Information Retrieval. I studied a fundamental way of constructing and utilizing test collections in information retrieval in an effective, efficient and reliable manner.
