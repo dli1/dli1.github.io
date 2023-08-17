@@ -21,17 +21,18 @@ sections:
       #   # {{% callout note %}}
       #   # Quickly discover relevant content by [filtering publications](./publication/).
       #   # {{% /callout %}}
+      count: 0
       filters:
         folders:
           - publication
         # exclude_featured: true
-     
-      archive:
-        enable: false
+
+      # archive:
+      #   enable: false
 
     design:
       columns: '2'
-      view: citation
+      view: compact
 
   - block: collection
     id: talks
