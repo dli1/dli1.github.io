@@ -63,9 +63,6 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
      icon_pack: ai
      link: https://scholar.google.com/citations?user=rvfla40AAAAJ&hl=en&authuser=1
-  - icon: dblp
-      icon_pack: fab
-      link: 'https://dblp.org/pid/48/4185-15.html'
   - icon: github
     icon_pack: fab
     link: https://github.com/dli1
