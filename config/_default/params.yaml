@@ -23,6 +23,8 @@ marketing:
   analytics:
     google_analytics: ''
     baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''  
   verification:
     google: ''
     baidu: ''
@@ -33,7 +35,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
