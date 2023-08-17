@@ -16,15 +16,15 @@ sections:
   - block: collection
     id: collection
     content:
-      title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Papers
+      # text: |-
+      #   # {{% callout note %}}
+      #   # Quickly discover relevant content by [filtering publications](./publication/).
+      #   # {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: true
+        # exclude_featured: true
 
     design:
       columns: '2'
