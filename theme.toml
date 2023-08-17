@@ -41,6 +41,7 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 [author]
   name = "Dan Li"
   homepage = "https://dli1.github.io/"
+  email = "teelada520@gmail.com"
 
 # If porting an existing theme
 [original]
