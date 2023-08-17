@@ -9,16 +9,16 @@ main:
     weight: 10
   - name: Publications
     url: '#collection'
-    weight: 50
+    weight: 20
   - name: Talks
     url: '#talks'
-    weight: 40
+    weight: 30
   - name: Mentoring 
     url: '#mentoring'
-    weight: 30
+    weight: 40
   - name: Posts
     url: '#posts'
-    weight: 20
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
