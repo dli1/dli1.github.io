@@ -5,9 +5,9 @@ title: 'Technology assisted reviews: Finding the last few relevant documents by 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jie Zou
-  - admin
-  - Evangelos Kanoulas
+- Jie Zou
+- admin
+- Evangelos Kanoulas
 
 # Author notes (optional)
 # author_notes:

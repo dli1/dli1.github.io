@@ -1,15 +1,11 @@
 ---
-title: 'Unsupervised Dense Retrieval for Scientific Articles'
+title: ''
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - Li D.
-  - Yadav V.
-  - Afzal Z.
-  - Tsatsaronis G.
-
+# authors:
+#   - 
 # Author notes (optional)
 # author_notes:
 #  - 'Equal contribution'

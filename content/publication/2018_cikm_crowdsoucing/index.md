@@ -5,13 +5,13 @@ title: 'Studying topical relevance with evidence-based crowdsourcing'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Oana Inel
-  - Giannis Haralabopoulos
-  - admin
-  - Christophe Van Gysel
-  - Zoltán Szlávik
-  - Elena Simperl
- - Evangelos Kanoulas
+- Oana Inel
+- Giannis Haralabopoulos
+- admin
+- Christophe Van Gysel
+- Zoltán Szlávik
+- Elena Simperl
+- Evangelos Kanoulas
 
 
 # Author notes (optional)
