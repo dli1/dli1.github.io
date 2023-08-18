@@ -16,7 +16,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: "218-01-01T00:00:00Z"
+date: "2018-01-01T00:00:00Z"
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -29,8 +29,8 @@ publishDate: '2023'
 publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In *PCLEF (Working Notes) 2018*
-publication_short: In *PCLEF (Working Notes) 2018*
+publication: In *CLEF (Working Notes) 2018*
+publication_short: In *CLEF (Working Notes) 2018*
 abstract: 
 # Summary. An optional shortened abstract.
 # summary: 
