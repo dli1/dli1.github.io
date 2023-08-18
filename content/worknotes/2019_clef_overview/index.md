@@ -29,8 +29,8 @@ publishDate: '2023'
 publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In *PCLEF (Working Notes) 2019*
-publication_short: In *PCLEF (Working Notes) 2019*
+publication: In *CLEF (Working Notes) 2019*
+publication_short: In *CLEF (Working Notes) 2019*
 abstract: 
 # Summary. An optional shortened abstract.
 # summary: 
@@ -77,14 +77,3 @@ url_video: ''
 # slides: content/slides/example/index.md
 
 ---
-
-{{% callout not<!-- e %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
- -->
