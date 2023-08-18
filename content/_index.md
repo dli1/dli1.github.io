@@ -46,10 +46,6 @@ sections:
       filters:
         folders:
           - worknotes
-        # exclude_featured: true
-
-      # archive:
-      #   enable: false
 
     design:
       columns: '2'
