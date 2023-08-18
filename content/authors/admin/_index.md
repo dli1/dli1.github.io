@@ -22,7 +22,7 @@ organizations:
     url: https://www.elsevier.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in Information Retrieval (IR), Text Mining (TM), Natural Language Processing (NLP) and general Artificial Intelligence (AI). 
+# bio: I am interested in Information Retrieval (IR), Text Mining (TM), Natural Language Processing (NLP) and general Artificial Intelligence (AI). 
 
 # Interests to show in About widget
 interests:
