@@ -55,11 +55,11 @@ social:
     icon_pack: fas
     link: "mailto:teelada520@gmail.com"
 
-    # display:
-    #   header: true
-  # - icon: :heart: #/assets/media/icons/icons8-google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #    icon_pack: fas
-  #    link: https://scholar.google.com/citations?user=rvfla40AAAAJ&hl=en&authuser=1
+    display:
+      header: true
+  - icon: graduation-cap #/assets/media/icons/icons8-google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+     icon_pack: fas
+     link: https://scholar.google.com/citations?user=rvfla40AAAAJ&hl=en&authuser=1
   - icon: github
     icon_pack: fab
     link: https://github.com/dli1
@@ -74,9 +74,9 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
 
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
