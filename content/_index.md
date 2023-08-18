@@ -34,6 +34,26 @@ sections:
       columns: '2'
       view: citation
 
+  - block: collection
+    id: worknotes
+    content:
+      title: Worknote Papers
+      # text: |-
+      #   # {{% callout note %}}
+      #   # Quickly discover relevant content by [filtering publications](./publication/).
+      #   # {{% /callout %}}
+      count: 0
+      filters:
+        folders:
+          - worknotes
+        # exclude_featured: true
+
+      # archive:
+      #   enable: false
+
+    design:
+      columns: '2'
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
