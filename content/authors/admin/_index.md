@@ -55,8 +55,8 @@ social:
     icon_pack: fas
     link: "mailto:teelada520@gmail.com"
 
-    display:
-      header: true
+    # display:
+    #   header: true
   - icon: graduation-cap #/assets/media/icons/icons8-google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
      icon_pack: fas
      link: https://scholar.google.com/citations?user=rvfla40AAAAJ&hl=en&authuser=1
