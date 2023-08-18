@@ -16,7 +16,7 @@ sections:
   - block: collection
     id: collection
     content:
-      title: Papers
+      title: Selected Papers
       # text: |-
       #   # {{% callout note %}}
       #   # Quickly discover relevant content by [filtering publications](./publication/).
@@ -34,16 +34,16 @@ sections:
       columns: '2'
       view: citation
 
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
 
   - block: markdown
     id: mentoring
