@@ -85,9 +85,9 @@ email: ''
 highlight_name: true
 ---
 
-Hi, my name is Dan Li (李丹). Currently I'm a data scientist at Elsevier, working on *dense retrieval*, *extreme multi-label classification*, and *document-based question answer generation using generative AI*. 
+Hi, my name is Dan Li (李丹). Currently I'm a senior data scientist at Elsevier, recently working on *generative AI*, *retrieval-augmented generation (RAG)*, *hallucination detection and mitigation*, *personalized search*, and in general *information retrieval (IR)*. 
 
-Before that, I did my PhD with Prof. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and Prof. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) at the University of Amsterdam. My PhD research topics was Evaluation and Optimization of Information Retrieval (check out my [PhD dissertation](https://dare.uva.nl/search?identifier=3438a2b6-9271-4f2c-add5-3c811cc48d42)). I'm also intersted in *conversational search*, *crowdsourcing label denoising*, *evalaution of information retrieval*, *text-to-image generation*, *probabilistic graphical models*, *Gaussian Process*.
+Before that, I did my PhD with Prof. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and Prof. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) at the University of Amsterdam. My PhD research topics was Evaluation and Optimization of Information Retrieval (check out my [PhD dissertation](https://dare.uva.nl/search?identifier=3438a2b6-9271-4f2c-add5-3c811cc48d42)). I'm also intersted in *conversational search*, *crowdsourcing label denoising*, *evalaution of information retrieval*, *generating paintings for classical Chinsese poems*, *probabilistic graphical models*, *Gaussian Process*.
 
 I'm currently a member of [European Laboratory for Learning and Intelligent Systems(ELLIS)](https://ellis.eu/members).
 
