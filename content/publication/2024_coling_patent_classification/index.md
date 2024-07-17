@@ -1,5 +1,5 @@
 ---
-title: 'Unsupervised Dense Retrieval for Scientific Articles'
+title: 'Scalable Patent Classification with Aggregated Multi-View Ranking'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,20 +7,23 @@ title: 'Unsupervised Dense Retrieval for Scientific Articles'
 authors:
   - admin
   - Vikrant Yadav
+  - Zi Long Zhu
+  - Maziar Moradi Fard
   - Zubair Afzal
   - Georgios Tsatsaronis 
+
 
 # Author notes (optional)
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: "2022-01-01T00:00:00Z"
+date: "2024-07-17T00:00:00Z"
 
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022'
+publishDate: '2024'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,13 +32,13 @@ publishDate: '2022'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing Industry Track*
-publication_short: In *EMNLP '22*
-abstract: In this work, we build a dense retrieval based semantic search engine on scientific articles from Elsevier. The major challenge is that there is no labeled data for training and testing. We apply a state-of-the-art unsupervised dense retrieval model called Generative Pseudo Labeling that generates high-quality pseudo training labels. Furthermore, since the articles are unbalanced across different domains, we select passages from multiple domains to form balanced training data. For the evaluation, we create two test sets, one manually annotated and one automatically created from the meta-information of our data. We compare the semantic search engine with the currently deployed lexical search engine on the two test sets. The results of the experiment show that the semantic search engine trained with pseudo training labels can significantly improve search performance.
+publication: In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation*
+publication_short: In *LREC-COLING '24*
+abstract: Automated patent classification typically involves assigning labels to a patent from a taxonomy, using multi-class multi-label classification models. However, classification-based models face challenges in scaling to large numbers of labels, struggle with generalizing to new labels, and fail to effectively utilize the rich information and multiple views of patents and labels. In this work, we propose a multi-view ranking-based method to address these limitations. Our method consists of four ranking-based models that incorporate different views of patents and a meta-model that aggregates and re-ranks the candidate labels given by the four ranking models. We compared our approach against the state-of-the-art baselines on two publicly available patent classification datasets, USPTO-2M and CLEF-IP-2011. We demonstrate that our approach can alleviate the aforementioned limitations and achieve a new state-of-the-art performance by a significant margin.
 
 
 # Summary. An optional shortened abstract.
-summary: We build a semantic search engine on scientific articles. The major challenge is that there is no labeled data for training and testing. We apply a state-of-the-art unsupervised dense retrieval model called Generative Pseudo Labeling that generates high-quality pseudo training labels.
+summary: We propose a multi-view ranking-based method for patent classification. Our method consists of four ranking-based models that incorporate different views of patents and a meta-model that aggregates and re-ranks the candidate labels given by the four ranking models.
 
 tags: []
 
@@ -47,14 +50,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://aclanthology.org/2022.emnlp-industry.32/'
+url_pdf: 'https://aclanthology.org/2024.lrec-main.1249/'
 url_code: ''
 url_dataset: ''
-url_poster: 'https://drive.google.com/file/d/145Syxsuhbo8wFYY0wZmMNEhGf8F9Ryvo/view?usp=drive_link'
+# url_poster: 'https://tba'
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1nku2IuII-b6Gn5GPwbten-JVTvi2Eo6Y/view?usp=drive_link'
 url_source: ''
-url_video: 'https://drive.google.com/file/d/1PIqzm70mzCuJuGceobEdLI9F7FF4Gn2b/view?usp=drive_link'
+url_video: 'https://drive.google.com/file/d/1OnLEqF7woxQv0ZV6jQ-biiQrKWcBfYzi/view?usp=drive_link'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -78,8 +81,8 @@ url_video: 'https://drive.google.com/file/d/1PIqzm70mzCuJuGceobEdLI9F7FF4Gn2b/vi
 #   Otherwise, set `slides: ""`.
 # slides: content/slides/example/index.md
 
-<!-- ---
-
+---
+<!-- 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
